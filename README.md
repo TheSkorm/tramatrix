@@ -1,7 +1,3 @@
-Don't attempt to use this yet - it's not done
-==
-No srsly - I haven't even tested any of this yet.
-
 Overview
 ==
 
@@ -10,6 +6,8 @@ This is a simple LED matrix that displays number of minutes until next tram at a
 It uses an ESP8266 through the Arduino IDE and a MAX7219 LED matrix controller.
 
 This repo also includes an Openscad box that can either be 3D printed or laser cut.
+
+And here is a video of it working - https://drive.google.com/a/michael-wheeler.org/file/d/0B3Zh48-akWFhRnIzNjBocmtSZUE/view?usp=sharing
 
 Hardware Requirements
 ==
